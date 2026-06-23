@@ -1,0 +1,10 @@
+ConferenceApp/android/app/build/
+ConferenceApp/android/.gradle/
+*.apk
+*.so
+
+node_modules/
+ConferenceApp/node_modules/
+conference-app-backend/node_modules/
+
+.env
