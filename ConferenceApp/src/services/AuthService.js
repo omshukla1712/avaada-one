@@ -29,7 +29,7 @@ export const demoLogin = async (email, password) => {
             throw new Error("Invalid credentials.");
         }
 
-        console.log('🚪 DEMO MODE ACTIVATED: Local User Generated');
+        console.log(' DEMO MODE ACTIVATED: Local User Generated');
             const mockUser = {
             userid: 123,
             full_name: "Test User",
